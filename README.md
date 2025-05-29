@@ -24,13 +24,16 @@ A curated meta list of open-source threat actor profile databases, tracking grou
 | **SOCRadar** | 121 threat actor profiles with analysis. | 121 | [🔗 socradar.io](https://socradar.io/category/threat-actor-profiles/) |
 | **Kaspersky** | 101 actor profiles with technical insights and visuals. | 101 | [🔗 apt.securelist.com](https://apt.securelist.com) |
 | **CrowdStrike** | 73 online, estimated 250+ total tracked over time. | 73+ | [🔗 crowdstrike.com/adversaries](https://www.crowdstrike.com/adversaries/) |
+| **Qianxin** | group name, first seen, little descriptions | 60 | [🔗 ti.qianxin.com/apt/](https://ti.qianxin.com/apt/) |
 | **Unit42 (Palo Alto)** | Small list with 58 public actor profiles. | 58 | [🔗 unit42.paloaltonetworks.com](https://unit42.paloaltonetworks.com/threat-actor-groups-tracked-by-palo-alto-networks-unit-42/) |
 | **Thales** | 49 actor groups in a graphical attack explorer. | 49 | [🔗 cds.thalesgroup.com](https://cds.thalesgroup.com/en/cyberthreat/attacks-page) |
 | **Threat Actors using LLMs** | Community-curated list of LLM abuse by threat actors. | 44 | [🔗 GitHub](https://github.com/cybershujin/Threat-Actors-use-of-Artifical-Intelligence) |
-| **UA-CERT** | 37 Ukrainian actor groups. Requires expanding entries. | 37 | [🔗 cert.gov.ua](https://cert.gov.ua/search/UAC-) |
+| **UA-CERT** | 37 entries via search and title extraction. | 37 | [🔗 cert.gov.ua](https://cert.gov.ua/search/UAC-) |
 | **Cyble** | 28 public threat actor profiles. | 28 | [🔗 cyble.com](https://cyble.com/threat-actor-profiles/) |
+| **BSI Germany** | List of actors targeting Germany | 28 | [🔗 bsi.bund.de](https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Cyber-Sicherheitslage/Analysen-und-Prognosen/Threat-Intelligence/Aktive_APT-Gruppen/aktive-apt-gruppen_node.html) |
 | **Dragos** | 23 ICS/OT-specific adversary profiles. | 23 | [🔗 dragos.com](https://www.dragos.com/threat-groups/) |
 | **EUREPOC** | 23 APT profiles from the EU-focused research hub. | 23 | [🔗 eurepoc.eu](https://eurepoc.eu/advanced-persistent-threats-apts/) |
+
 
 
 ---
