@@ -23,6 +23,7 @@ A curated meta list of open-source threat actor profile databases, tracking grou
 | **Microsoft** | Names and aliases | ~130 | 🔗 [XLS file](https://download.microsoft.com/download/4/5/2/45208247-c1e9-432d-a9a2-1554d81074d9/microsoft-threat-actor-list.xlsx) and [HTML version](https://learn.microsoft.com/en-us/unified-secops-platform/microsoft-threat-actor-naming?view=o365-worldwide) |
 | **SOCRadar** | 121 threat actor profiles with analysis. | 121 | [🔗 socradar.io](https://socradar.io/category/threat-actor-profiles/) |
 | **Kaspersky** | 101 actor profiles with technical insights and visuals. | 101 | [🔗 apt.securelist.com](https://apt.securelist.com) |
+| **Microsoft and CrowdStrike** | Official MSFT to Crowdstrike mapping from [CrowdStrike blog](https://www.crowdstrike.com/en-us/blog/crowdstrike-and-microsoft-unite-to-deconflict-cyber-threat-attribution/) | 81 | [🔗 mapping.csv](./msft_crowdstrike_threat_actor_mapping.csv) |
 | **CrowdStrike** | 73 online, estimated 250+ total tracked over time. | 73+ | [🔗 crowdstrike.com/adversaries](https://www.crowdstrike.com/adversaries/) |
 | **Qianxin** | group name, first seen, little descriptions | 60 | [🔗 ti.qianxin.com/apt/](https://ti.qianxin.com/apt/) |
 | **Unit42 (Palo Alto)** | Small list with 58 public actor profiles. | 58 | [🔗 unit42.paloaltonetworks.com](https://unit42.paloaltonetworks.com/threat-actor-groups-tracked-by-palo-alto-networks-unit-42/) |
