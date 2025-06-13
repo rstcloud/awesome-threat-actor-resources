@@ -35,7 +35,7 @@ A curated meta list of open-source threat actor profile databases, tracking grou
 | **BSI Germany** | List of actors targeting Germany | 28 | [🔗 bsi.bund.de](https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Cyber-Sicherheitslage/Analysen-und-Prognosen/Threat-Intelligence/Aktive_APT-Gruppen/aktive-apt-gruppen_node.html) |
 | **Dragos** | 23 ICS/OT-specific adversary profiles. | 23 | [🔗 dragos.com](https://www.dragos.com/threat-groups/) |
 | **EUREPOC** | 23 APT profiles from the EU-focused research hub. | 23 | [🔗 eurepoc.eu](https://eurepoc.eu/advanced-persistent-threats-apts/) |
-
+| **Infoblox** | 9 actors with some of them representing specific malware | 9 | [ 🔗 infoblox.com](https://www.infoblox.com/threat-intel/threat-actors/) |
 
 
 ---
@@ -49,5 +49,5 @@ A curated meta list of open-source threat actor profile databases, tracking grou
 
 ## 📥 Contributions
 
-Feel free to submit a PR if you know of other high-quality, open threat actor databases or tracking initiatives.
+Feel free to open an issue ticke if you know of other high-quality, open threat actor databases or tracking initiatives.
 
