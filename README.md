@@ -6,6 +6,7 @@ A curated meta list of open-source threat actor profile databases, tracking grou
 
 | Source | Description | Count | Link |
 |--------|-------------|-------|------|
+| **EternalLiberty** | A compilation of the names and aliases of threat actors. | 821 | [🔗 StrangerealIntel/EternalLiberty ](https://github.com/StrangerealIntel/EternalLiberty/blob/main/EternalLiberty.csv) |
 | **Malpedia** | Brief descriptions (1–2 sentences) for each of 821 adversary entries. Includes a well-organized set of related links. | 821 | [🔗 malpedia.caad.fkie.fraunhofer.de](https://malpedia.caad.fkie.fraunhofer.de/actors) |
 | **MISP Galaxy** | Lists aliases for 816 threat actors, but includes little to no descriptive information. | 816 | [🔗 misp-galaxy.org](https://misp-galaxy.org/threat-actor/) |
 | **APTMap** | Aggregates 814 groups by merging MISP with other datasets. | 814 | [🔗 github.com/andreacristaldi/APTmap](https://github.com/andreacristaldi/APTmap) |
@@ -32,10 +33,10 @@ A curated meta list of open-source threat actor profile databases, tracking grou
 | **Threat Actors using LLMs** | Community-curated list of LLM abuse by threat actors. | 44 | [🔗 GitHub](https://github.com/cybershujin/Threat-Actors-use-of-Artifical-Intelligence) |
 | **UA-CERT** | 37 entries via search and title extraction. | 37 | [🔗 cert.gov.ua](https://cert.gov.ua/search/UAC-) |
 | **Cyble** | 28 public threat actor profiles. | 28 | [🔗 cyble.com](https://cyble.com/threat-actor-profiles/) |
-| **BSI Germany** | List of actors targeting Germany | 28 | [🔗 bsi.bund.de](https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Cyber-Sicherheitslage/Analysen-und-Prognosen/Threat-Intelligence/Aktive_APT-Gruppen/aktive-apt-gruppen_node.html) |
+| **BSI Germany** | List of actors targeting Germany. | 28 | [🔗 bsi.bund.de](https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Cyber-Sicherheitslage/Analysen-und-Prognosen/Threat-Intelligence/Aktive_APT-Gruppen/aktive-apt-gruppen_node.html) |
 | **Dragos** | 23 ICS/OT-specific adversary profiles. | 23 | [🔗 dragos.com](https://www.dragos.com/threat-groups/) |
 | **EUREPOC** | 23 APT profiles from the EU-focused research hub. | 23 | [🔗 eurepoc.eu](https://eurepoc.eu/advanced-persistent-threats-apts/) |
-| **Infoblox** | 9 actors with some of them representing specific malware | 9 | [ 🔗 infoblox.com](https://www.infoblox.com/threat-intel/threat-actors/) |
+| **Infoblox** | 9 actors with some of them representing specific malware. | 9 | [ 🔗 infoblox.com](https://www.infoblox.com/threat-intel/threat-actors/) |
 
 
 ---
@@ -49,5 +50,5 @@ A curated meta list of open-source threat actor profile databases, tracking grou
 
 ## 📥 Contributions
 
-Feel free to open an issue ticke if you know of other high-quality, open threat actor databases or tracking initiatives.
+Feel free to open an issue ticket if you know of other high-quality, open threat actor databases or tracking initiatives.
 
