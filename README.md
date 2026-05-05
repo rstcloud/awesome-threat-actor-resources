@@ -6,6 +6,7 @@ A curated meta list of open-source threat actor profile databases, tracking grou
 
 | Source | Description | Count | Link |
 |--------|-------------|-------|------|
+| **Threat Actor Username Scrape Project** | A collection of intel and active 650k+ usernames scraped from various cybercrime sources & forums. DarkForums, HackForums, Patched, Cracked, BreachForums, OGUser, XSS, Dread, & more. | 650,000+ | [🔗 spmedia/Threat-Actor-Usernames-Scrape ](https://github.com/spmedia/Threat-Actor-Usernames-Scrape) |
 | **EternalLiberty** | A compilation of the names and aliases of threat actors. | 821 | [🔗 StrangerealIntel/EternalLiberty ](https://github.com/StrangerealIntel/EternalLiberty/blob/main/EternalLiberty.csv) |
 | **Malpedia** | Brief descriptions (1–2 sentences) for each of 821 adversary entries. Includes a well-organized set of related links. | 821 | [🔗 malpedia.caad.fkie.fraunhofer.de](https://malpedia.caad.fkie.fraunhofer.de/actors) |
 | **MISP Galaxy** | Lists aliases for 816 threat actors, but includes little to no descriptive information. | 816 | [🔗 misp-galaxy.org](https://misp-galaxy.org/threat-actor/) |
